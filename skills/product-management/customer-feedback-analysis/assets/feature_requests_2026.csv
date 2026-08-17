@@ -1,0 +1,186 @@
+month,feature,description,lifecycle_stage,mentions,weighted_mention_score,competitors,churn_linked,lost_revenue_usd
+2026-01,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,7,71.8,Northwind,1,33200
+2026-01,Custom dashboards,User-defined dashboards with saved layouts and shareable links,loyal customer,7,66.5,Deckard,0,0
+2026-01,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,3,65.7,Orbital,0,0
+2026-01,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,6,63.2,Quantly,1,38200
+2026-01,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,6,59.6,,0,0
+2026-01,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,4,55.0,Orbital,0,0
+2026-01,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,6,55.0,Deckard,0,0
+2026-01,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,loyal customer,4,52.4,Northwind;Orbital,0,0
+2026-01,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,7,51.4,Deckard,0,0
+2026-01,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,6,48.7,Deckard,0,0
+2026-01,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,5,47.8,Deckard,0,0
+2026-01,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,4,43.8,,1,30500
+2026-01,Granular role permissions,Per-object roles so contractors and clients see only their own records,new customer,2,43.2,Northwind;Deckard,1,10500
+2026-01,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,new customer,2,40.5,Northwind;Orbital,0,0
+2026-01,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,lead,5,40.5,Deckard,0,0
+2026-01,Mobile app,Native iOS and Android client for field teams working offline,loyal customer,4,36.2,Orbital,0,0
+2026-01,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,lead,2,34.4,Northwind,0,0
+2026-01,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,6,34.3,Northwind;Deckard,0,0
+2026-01,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,2,33.7,Quantly,0,0
+2026-01,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",new customer,4,33.4,Quantly,0,0
+2026-01,Mobile app,Native iOS and Android client for field teams working offline,lead,7,25.7,Orbital,0,0
+2026-01,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,new customer,2,24.0,Quantly,0,0
+2026-01,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,lead,6,21.5,,0,0
+2026-02,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,8,69.3,Northwind;Quantly,1,13200
+2026-02,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,8,67.9,Orbital,1,15100
+2026-02,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,7,67.6,Orbital;Quantly,0,0
+2026-02,Custom dashboards,User-defined dashboards with saved layouts and shareable links,loyal customer,9,66.0,Deckard,0,0
+2026-02,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,6,58.5,Quantly,0,0
+2026-02,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,7,58.0,Quantly,1,49100
+2026-02,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,loyal customer,10,55.9,,0,0
+2026-02,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,9,54.0,,0,0
+2026-02,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,5,54.0,Deckard,0,0
+2026-02,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,loyal customer,10,53.6,Deckard,0,0
+2026-02,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,new customer,4,49.3,Orbital,0,0
+2026-02,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,2,45.2,Deckard,0,0
+2026-02,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,9,44.8,Quantly,1,16800
+2026-02,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,6,42.3,Deckard,0,0
+2026-02,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,2,37.0,,0,0
+2026-02,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,7,36.9,,0,0
+2026-02,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",new customer,6,36.5,Quantly,0,0
+2026-02,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,lead,3,36.2,Northwind,0,0
+2026-02,Mobile app,Native iOS and Android client for field teams working offline,loyal customer,9,34.8,Orbital,0,0
+2026-02,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,lead,4,33.9,Deckard,0,0
+2026-02,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,new customer,6,33.2,,0,0
+2026-02,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,loyal customer,7,31.3,,0,0
+2026-02,Mobile app,Native iOS and Android client for field teams working offline,new customer,2,27.1,Orbital,0,0
+2026-02,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,new customer,4,26.2,Quantly,0,0
+2026-02,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,lead,5,24.1,Quantly,0,0
+2026-03,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,6,84.8,Northwind,0,0
+2026-03,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,11,78.1,Orbital,1,36500
+2026-03,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,4,70.8,,1,29000
+2026-03,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,3,64.1,,0,0
+2026-03,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,5,57.7,,0,0
+2026-03,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,7,55.4,Quantly,1,22400
+2026-03,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,new customer,7,53.0,Orbital,0,0
+2026-03,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,8,50.6,Deckard,0,0
+2026-03,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,loyal customer,9,48.4,Deckard,0,0
+2026-03,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,3,48.3,,0,0
+2026-03,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,4,47.7,Orbital,0,0
+2026-03,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,2,44.6,Deckard,0,0
+2026-03,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,3,43.0,,0,0
+2026-03,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,2,41.5,Northwind,0,0
+2026-03,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,loyal customer,7,38.4,Quantly,0,0
+2026-03,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,lead,5,38.0,Deckard,1,3000
+2026-03,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,new customer,2,34.2,Quantly,1,18500
+2026-03,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,7,32.6,,0,0
+2026-03,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,new customer,5,30.6,,0,0
+2026-03,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,lead,2,29.6,,0,0
+2026-03,Mobile app,Native iOS and Android client for field teams working offline,lead,6,23.3,Orbital,0,0
+2026-04,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,10,79.2,,0,0
+2026-04,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,11,75.4,,1,29400
+2026-04,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,8,66.9,Northwind,0,0
+2026-04,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,6,66.1,Northwind,0,0
+2026-04,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,3,63.0,Orbital;Quantly,0,0
+2026-04,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,5,62.6,Northwind;Deckard,0,0
+2026-04,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,loyal customer,6,61.3,Northwind,0,0
+2026-04,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,4,59.8,Orbital,0,0
+2026-04,Custom dashboards,User-defined dashboards with saved layouts and shareable links,loyal customer,9,56.5,Deckard,0,0
+2026-04,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,5,52.1,Quantly,1,15100
+2026-04,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",new customer,3,49.5,,0,0
+2026-04,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,5,47.7,Northwind;Deckard,1,10300
+2026-04,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,loyal customer,4,47.7,,0,0
+2026-04,Granular role permissions,Per-object roles so contractors and clients see only their own records,new customer,4,45.4,Northwind;Deckard,0,0
+2026-04,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,lead,5,44.4,,0,0
+2026-04,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,3,43.9,Deckard,0,0
+2026-04,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,5,43.5,Deckard,0,0
+2026-04,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,loyal customer,6,42.3,,0,0
+2026-04,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,2,36.9,,0,0
+2026-04,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,new customer,4,35.9,Quantly,0,0
+2026-04,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,loyal customer,8,34.4,,0,0
+2026-04,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,new customer,4,33.5,,0,0
+2026-04,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,lead,2,32.3,,0,0
+2026-04,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,lead,5,28.1,,0,0
+2026-04,Mobile app,Native iOS and Android client for field teams working offline,loyal customer,3,27.3,,0,0
+2026-04,Mobile app,Native iOS and Android client for field teams working offline,new customer,4,27.1,Orbital,0,0
+2026-05,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,5,83.4,Quantly,1,41200
+2026-05,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,6,81.8,Quantly,1,25200
+2026-05,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,5,81.2,Quantly,0,0
+2026-05,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,6,61.6,,1,31400
+2026-05,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,4,57.1,Northwind;Quantly,0,0
+2026-05,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,lead,7,55.9,Northwind,0,0
+2026-05,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,9,55.4,,0,0
+2026-05,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,10,55.4,,1,11200
+2026-05,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,6,54.4,Orbital,0,0
+2026-05,Custom dashboards,User-defined dashboards with saved layouts and shareable links,loyal customer,8,53.0,Deckard,0,0
+2026-05,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",new customer,6,52.0,Quantly,0,0
+2026-05,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,3,48.7,Deckard,0,0
+2026-05,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,7,44.3,Quantly,0,0
+2026-05,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,2,42.0,,0,0
+2026-05,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,7,41.4,,0,0
+2026-05,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,loyal customer,7,39.3,,0,0
+2026-05,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,loyal customer,7,38.3,Deckard,1,10800
+2026-05,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,lead,5,31.5,,0,0
+2026-05,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,3,30.7,,1,4900
+2026-05,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,lead,5,27.0,Deckard,0,0
+2026-05,Mobile app,Native iOS and Android client for field teams working offline,new customer,4,23.0,,0,0
+2026-05,Mobile app,Native iOS and Android client for field teams working offline,lead,5,18.0,Orbital,0,0
+2026-06,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,7,89.1,Northwind,0,0
+2026-06,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,8,85.7,Northwind,0,0
+2026-06,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,loyal customer,6,79.7,,0,0
+2026-06,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,6,78.4,,1,44900
+2026-06,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,7,67.4,Northwind;Deckard,0,0
+2026-06,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,4,62.3,Quantly,0,0
+2026-06,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,8,61.6,Quantly,0,0
+2026-06,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,new customer,7,60.8,Northwind,0,0
+2026-06,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,7,60.8,Quantly,0,0
+2026-06,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,6,50.8,Northwind;Deckard,1,6500
+2026-06,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,6,46.3,Deckard,0,0
+2026-06,Custom dashboards,User-defined dashboards with saved layouts and shareable links,loyal customer,6,44.9,Deckard,0,0
+2026-06,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,7,42.9,Quantly,0,0
+2026-06,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,loyal customer,7,42.6,,0,0
+2026-06,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,4,39.8,,0,0
+2026-06,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,loyal customer,7,38.5,,0,0
+2026-06,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,new customer,2,38.2,,0,0
+2026-06,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,6,30.3,,0,0
+2026-06,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,lead,4,30.3,Quantly,0,0
+2026-06,Mobile app,Native iOS and Android client for field teams working offline,loyal customer,4,24.3,,0,0
+2026-06,Mobile app,Native iOS and Android client for field teams working offline,new customer,2,20.2,,0,0
+2026-07,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",loyal customer,6,91.1,Northwind;Quantly,1,20300
+2026-07,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,loyal customer,5,91.1,Northwind;Orbital,1,29700
+2026-07,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,6,82.4,Northwind;Quantly,0,0
+2026-07,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,7,78.1,Orbital,1,17700
+2026-07,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,6,71.9,Quantly,0,0
+2026-07,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,7,69.8,,0,0
+2026-07,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,new customer,6,69.2,Orbital,1,27800
+2026-07,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,3,68.8,Quantly,0,0
+2026-07,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",new customer,7,57.3,,0,0
+2026-07,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,lead,3,54.0,Orbital,0,0
+2026-07,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,loyal customer,6,52.6,,0,0
+2026-07,Granular role permissions,Per-object roles so contractors and clients see only their own records,new customer,4,52.4,,0,0
+2026-07,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,7,48.2,Quantly,0,0
+2026-07,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",lead,2,47.9,,0,0
+2026-07,Custom dashboards,User-defined dashboards with saved layouts and shareable links,loyal customer,7,47.9,,0,0
+2026-07,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,loyal customer,7,46.3,,0,0
+2026-07,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,5,45.8,Northwind;Deckard,0,0
+2026-07,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,new customer,4,41.5,,0,0
+2026-07,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,new customer,6,37.2,Quantly,0,0
+2026-07,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,lead,7,34.9,,1,7900
+2026-07,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,lead,6,33.6,Quantly,0,0
+2026-07,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,4,26.4,Deckard,0,0
+2026-07,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,lead,3,21.3,,0,0
+2026-07,Mobile app,Native iOS and Android client for field teams working offline,loyal customer,4,17.5,,0,0
+2026-08,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,loyal customer,8,92.1,Northwind;Orbital,0,0
+2026-08,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",new customer,5,89.9,Northwind;Quantly,0,0
+2026-08,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,lead,3,72.5,Orbital,1,23800
+2026-08,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",loyal customer,4,72.2,Orbital,1,17100
+2026-08,SAML / SSO,"Single sign-on via Okta or Entra ID, required by enterprise security reviews",lead,4,70.0,,0,0
+2026-08,EU data residency,Storing and processing customer data inside the EU for GDPR sign-off,new customer,4,68.9,Northwind;Orbital,0,0
+2026-08,Audit log export,"Exportable, immutable activity log for SOC 2 and internal compliance",loyal customer,4,63.6,,0,0
+2026-08,Granular role permissions,Per-object roles so contractors and clients see only their own records,loyal customer,9,63.3,Northwind,0,0
+2026-08,Granular role permissions,Per-object roles so contractors and clients see only their own records,new customer,6,61.6,Northwind,0,0
+2026-08,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",new customer,4,60.5,Orbital,0,0
+2026-08,Salesforce two-way sync,"Bidirectional sync of accounts and opportunities, not a nightly one-way push",lead,3,60.4,Orbital;Quantly,0,0
+2026-08,Granular role permissions,Per-object roles so contractors and clients see only their own records,lead,6,52.4,Northwind,0,0
+2026-08,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,new customer,5,48.5,,0,0
+2026-08,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,loyal customer,3,45.6,,0,0
+2026-08,Scheduled report delivery,Recurring PDF and CSV reports emailed to stakeholders on a schedule,new customer,4,38.5,,0,0
+2026-08,Higher API rate limits,Raising the 60 req/min ceiling that throttles customer-side integrations,lead,5,38.0,Quantly,0,0
+2026-08,Custom dashboards,User-defined dashboards with saved layouts and shareable links,new customer,5,36.1,,1,6800
+2026-08,Custom dashboards,User-defined dashboards with saved layouts and shareable links,lead,3,32.5,,0,0
+2026-08,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,loyal customer,8,27.9,Deckard,0,0
+2026-08,Bulk CSV import,Importing and de-duplicating tens of thousands of records in one pass,new customer,1,20.9,,0,0
+2026-08,Mobile app,Native iOS and Android client for field teams working offline,loyal customer,6,16.4,Orbital,0,0
+2026-08,Mobile app,Native iOS and Android client for field teams working offline,new customer,5,13.4,Orbital,0,0
+2026-08,Mobile app,Native iOS and Android client for field teams working offline,lead,5,10.2,,0,0

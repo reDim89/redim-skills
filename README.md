@@ -58,6 +58,12 @@ Or just copy the folder instead of symlinking if you'd rather fork the skill loc
 
 > The productivity skills above are wired to a specific Tana workspace and tag/field IDs. They're useful as templates — swap in your own IDs.
 
+### Product management
+
+| Skill | What it does |
+| --- | --- |
+| [`customer-feedback-analysis`](skills/product-management/customer-feedback-analysis/SKILL.md) | Aggregates feature requests from Granola, Slack and Pipedrive via MCP, scores them into one dataset, and runs an EDA to cross-check the roadmap. Ships a mock dataset and a worked notebook. |
+
 ## Contributing / forking
 
 Fork it, take what's useful, adapt what isn't.
