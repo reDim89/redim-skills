@@ -5,6 +5,7 @@ A personal collection of [Claude Code](https://claude.com/claude-code) skills I 
 - **Productivity** — journaling, weekly reviews, personal-knowledge-management workflows (mostly [Tana](https://tana.inc/))
 - **Product management** — discovery, specs, review, planning helpers
 - **Coding / data analysis** — small, repeatable workflows that don't belong in a one-off prompt
+- **Thinking** — structured mental models for working through hard questions
 
 ## Layout
 
@@ -63,6 +64,12 @@ Or just copy the folder instead of symlinking if you'd rather fork the skill loc
 | Skill | What it does |
 | --- | --- |
 | [`customer-feedback-analysis`](skills/product-management/customer-feedback-analysis/SKILL.md) | Aggregates feature requests from Granola, Slack and Pipedrive via MCP, scores them into one dataset, and runs an EDA to cross-check the roadmap. Ships a mock dataset and a worked notebook. |
+
+### Thinking
+
+| Skill | What it does |
+| --- | --- |
+| [`thinking-patterns`](skills/thinking/thinking-patterns/SKILL.md) | Applies structured mental models (first principles, falsifiable hypotheses, pre-mortem, inversion, leverage points and seven more) to any question. Picks three that fit, runs each to a fixed output shape, and ends with a recommendation. |
 
 ## Contributing / forking
 
