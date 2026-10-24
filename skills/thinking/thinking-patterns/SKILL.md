@@ -20,6 +20,15 @@ mechanism ("do a pre-mortem on…", "first-principles this", "invert it").
 
 ### 1. Frame the question
 
+**Find the question under the artifact.** Users often point at something concrete (a plan,
+a roadmap item, a spec) when what they care about is the idea behind it. Ask what they're
+ultimately trying to make or decide, and what makes it hard. Frame that, and keep the
+context they gave: the competition, the references they admire, the cost they can't pay.
+"Can I ship X by December?" is a plan question. "How do I make X stand out among copycats
+without spending years on it?" is the idea question, and usually the one that matters. If
+both are plausible, write each in one line and ask which to run before spending any lenses
+on it.
+
 Write the **core question** in one sentence, phrased as a decision or a tension: "Can X win
 Y against Z?", "Should I do A or B by when?", "Why does this keep happening?"
 
@@ -64,6 +73,19 @@ output template. Give each lens its own numbered section, and follow these rules
   question, phrased as something to test, not as a conclusion.
 - **Be concrete.** If a line would fit any company, person or topic, rewrite it with
   specifics or drop it.
+- **First principles go to the root, not the features.** Keep asking "why does this work
+  for people?" until the answer is about human nature or need, not mechanics or features.
+  When the user names examples they admire (products, games, books, companies), the first
+  truth must explain why *those* hit differently, in a way a fan would recognise. A general
+  theory (a motivation model, a framework) can support that truth but never replaces it.
+- **Three to four hypotheses at least**, each testable in days or weeks for little money.
+  The point is to test the waters before committing, not to plan a research programme.
+- **Match the pre-mortem horizon to the stakes.** For early bets, personal projects and
+  anything still exploratory, set the date at the next real checkpoint (weeks or a few
+  months away), not years out. Drop stories that fit any project ("not enough time",
+  "perfectionism", "life got in the way") unless they have a twist specific to this one.
+  Include at least one failure that following this very analysis could cause. When the
+  user is the main resource, make the stories about them, not the market.
 
 ### 4. Synthesise
 
@@ -75,7 +97,20 @@ output template. Give each lens its own numbered section, and follow these rules
   of the reference. Rank opportunities by how much you'd bet on each.
 - **Open questions.** What you couldn't answer, and what data would answer it.
 
-### 5. Deliver
+### 5. Depth check
+
+Before delivering, reread each lens as the user would and ask: would they have said this
+already? Does it describe this problem, or any problem in its category? Redo the lens if:
+
+- the core question is about a plan when the user cares about the idea (step 1);
+- a first-principles truth is a feature list or a borrowed framework, not the reason
+  people care;
+- there are fewer than three hypotheses, or one can't be tested within a month;
+- a pre-mortem story is the obvious one, or set so far out that nothing can be watched now.
+
+One deeper pass costs less than three rounds of the user correcting the direction.
+
+### 6. Deliver
 
 For a quick question, answer in chat. For a substantial analysis, or when the working
 folder already holds numbered analysis docs, write `NN-<slug>.md` and continue the

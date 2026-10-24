@@ -61,7 +61,9 @@ differentiation rather than incremental improvement.
 
 **Steps**
 1. Strip the labels. What job is actually being done, and for whom? If there are several
-   jobs, separate them (a table works well).
+   jobs, separate them (a table works well). Keep asking "why does that matter to them?"
+   until you hit something about people, not product features. If the user named examples
+   they admire, start with why those examples work.
 2. List everything believed about the problem. For each, ask: *Why do I think this? How do
    I know it's true? What if the opposite were true?*
 3. Keep only what is true regardless of convention: physical, economic, behavioural or
@@ -85,8 +87,8 @@ Optional jobs table:
 
 **Implication (to test, not conclude):** <The rebuilt frame in one or two sentences.>
 
-**Watch for:** "truths" that are really industry convention, and truths too generic to
-imply anything.
+**Watch for:** "truths" that are really industry convention, truths too generic to
+imply anything, and lists of features or mechanics standing in for the reason people care.
 
 *Origin: Aristotle, Metaphysics; Musk (TED 2013); Tim Urban, "The Cook and the Chef" (2015).*
 
@@ -98,8 +100,10 @@ imply anything.
 **Use when:** you're about to commit to a plan, strategy, launch or big decision.
 
 **Steps**
-1. Set a concrete future date, usually 1–2 years out, and state the failure vividly:
-   "It's <date>. <Plan> has failed: <specific bad outcome>. What happened?"
+1. Set a concrete future date and state the failure vividly: "It's <date>. <Plan> has
+   failed: <specific bad outcome>. What happened?" For company strategy, 1–2 years out.
+   For early bets and personal projects, the next real checkpoint, weeks or a few months
+   away, so the warning signals can be watched now.
 2. Write the most plausible failure stories, each independently. Imagining that the
    failure already happened surfaces about 30% more reasons than asking "what could go
    wrong?"
@@ -118,8 +122,9 @@ imply anything.
 **Which failure is most likely?** <P_, and why. Which others compound it. The one choice
 underneath.>
 
-**Watch for:** generic failures ("bad execution", "market changed"), and signals you
-can't actually observe.
+**Watch for:** generic failures ("bad execution", "market changed", "ran out of time"),
+signals you can't actually observe, and missing the failure this analysis itself could
+cause (e.g. a lens that says "the world matters" inviting months of worldbuilding).
 
 *Origin: Gary Klein, "Performing a Project Premortem", HBR (2007); Mitchell et al. (1989);
 Kahneman calls it his favourite decision technique.*
